@@ -5,7 +5,9 @@
 
 - Me pergunte sobre **Advpl, Totvs Protheus, SQL, API**
 
+<!--
 - Você me acha através do e-mail **edson_mgo@hotmail.com**
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
